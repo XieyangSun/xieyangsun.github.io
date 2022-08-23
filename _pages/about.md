@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I received my B.S in Software Engineering from Xidian University in 2021. Now I am a postgraduate majoring in Computer Science in Xi'an Jiaotong University.
-I wrote some blog posts about wireless tech. in Chinese: [sund-xys.cn](http://www.sund-xys.cn)
+I wrote some blog posts about SDR tech. in Chinese: [sund-xys.cn](http://www.sund-xys.cn)
 ## Contact
 WeChat: sxysund
 
