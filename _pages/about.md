@@ -20,7 +20,7 @@ Email: xieyangsun@stu.xjtu.edu.cn
 3. Wireless sensing.
 
 ## News
-* Our one paper won the third prize of ``JinNang-2021''(First author)
+* Our one paper won the third prize of \`\`JinNang-2021''(First author)
 * Our one paper was accepted by IEEE SECON 2022!
 
 ## Publications
