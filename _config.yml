@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xieyang Sun"
 title_separator          : "-"
-name                     : &name "Xieyang Sun(孙燮阳)"
+name                     : &name "Xieyang Sun"
 description              : &description "personal description"
 url                      : https://xieyangsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  WeChat           : "sxysund"
+ # WeChat           : "sxysund"
 
 
 # Reading Files
