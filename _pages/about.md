@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xieyang Sun(孙燮阳)"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
