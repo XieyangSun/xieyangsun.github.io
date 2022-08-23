@@ -26,10 +26,11 @@ Email: xieyangsun@stu.xjtu.edu.cn
 
 ## Publications
 __ScreenInformer: Whispering Secret Information via an LCD Screen__.
-
+-----
 <u>Xieyang Sun</u>, Wei Xi, Zhiping Jiang, Zuhao Chen, Han Hao
-
+-----
 _In IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022._
+
 ## Awards
 * July 2022. We won the third prize of ``JinNang-2021''.
 * Nov. 2021. I was awarded the __National Scholarship__ for postgraduate.
