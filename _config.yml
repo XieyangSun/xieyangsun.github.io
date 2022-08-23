@@ -13,7 +13,7 @@ name                     : &name "Xieyang Sun(孙燮阳)"
 description              : &description "personal description"
 url                      : https://xieyangsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XieyangSun/xieyangsun.github.io"
+repository               : "https://github.com/XieyangSun/xieyangsun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
