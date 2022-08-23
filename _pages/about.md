@@ -11,6 +11,7 @@ redirect_from:
 I received my B.S in Software Engineering from Xidian University in 2021. Now I am a postgraduate majoring in Computer Science in Xi'an Jiaotong University.
 ## Contact
 WeChat: sxysund
+
 Email: xieyangsun@stu.xjtu.edu.cn
 
 ## My interest
@@ -24,7 +25,9 @@ Email: xieyangsun@stu.xjtu.edu.cn
 
 ## Publications
 __ScreenInformer: Whispering Secret Information via an LCD Screen__.
+
 <u>Xieyang Sun</u>, Wei Xi, Zhiping Jiang, Zuhao Chen, Han Hao
+
 _In IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022._
 ## Awards
 * July 2022. We won the third prize of ``JinNang-2021''.
