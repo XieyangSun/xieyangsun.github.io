@@ -32,7 +32,7 @@ __ScreenInformer: Whispering Secret Information via an LCD Screen__.
 _In IEEE International Conference on Sensing, Communication, and Networking (SECON), 2022._
 
 ## Awards
-* July 2022. We won the third prize of ``JinNang-2021''.
+* July 2022. We won the third prize of \`\`JinNang-2021''.
 * Nov. 2021. I was awarded the __National Scholarship__ for postgraduate.
 * July 2021. A College Student Innovation and Entrepreneurship Training Program (National level) is __excellent__. Thanks our advisor [Zhiping Jiang](https://zpj.io/), and Zhixiang Lian / Qiyuan Wang(collaborators).
 * Jun 2020. A College Student Innovation and Entrepreneurship Training Program (National level) is __qualified__. Thanks our advisor [Rui Li](https://faculty.xidian.edu.cn/LR3/zh_CN/index.htm), group leader [Boyuan Sun](https://www.bbbbchan.com/) and our collaborators.
