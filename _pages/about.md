@@ -28,13 +28,13 @@ Side-channel analysis and wireless communication, or their combination.
 
 __TEMPEST-LoRa: Cross-Technology Covert Communication__
 
-<u>Xieyang Sun<u>, Yuanqing Zheng, Wei Xi*, Zuhao Chen, Zhizhen Chen, Han Hao, Zhiping Jiang, Sheng Zhong
+<u>Xieyang Sun</u>, Yuanqing Zheng, Wei Xi*, Zuhao Chen, Zhizhen Chen, Han Hao, Zhiping Jiang, Sheng Zhong
 
 _In ACM Conference on Computer and Communications Security (CCS) 2025_
 
 __A Self-Enhancement Solution for Standard RFIDs: Software-based Cross-protocol Communication and Localization.__
 
-Cui Zhao, Zhenjiang Li, Han Ding, <u>Xieyang Sun<u>, Wei Xi, Jizhong Zhao
+Cui Zhao, Zhenjiang Li, Han Ding, <u>Xieyang Sun</u>, Wei Xi, Jizhong Zhao
 
 _In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_
 
