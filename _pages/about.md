@@ -14,14 +14,16 @@ WeChat: sxysund
 
 Email: xieyangsun@stu.xjtu.edu.cn
 
+Some intuitive and interesting demos of side-channel attacks can be viewed on my Bilibli channel: https://space.bilibili.com/45046167
+
 ## My interest
-My research interests include side-channel analysis, wireless communication, and their integration in cross-technology covert communication systems.
+My research interests include side-channel analysis, wireless communication, and their integration in wireless covert communication systems.
 
 ## News
 * One paper was accepted to ACM CCS 2025 (CCF-A)
 * One paper was accepted to IMWUT/UbiComp (CCF-A)
-* One paper was accepted by IEEE SECON 2022 (CCF-B)
-* One paper won the third prize of ''JinNang 2021''
+* One paper was accepted to IEEE SECON 2022 (CCF-B)
+* One paper won the third prize of ''Jinnang 2021''
 
 
 ## Publications
