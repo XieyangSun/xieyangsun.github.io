@@ -14,7 +14,7 @@ WeChat: sxysund
 
 Email: xieyangsun@stu.xjtu.edu.cn
 
-Some intuitive and interesting demos of side-channel attacks can be viewed on my [Bilibli channel](https://space.bilibili.com/45046167)
+Some intuitive and interesting demos of side-channel attacks can be viewed on my [Bilibili channel](https://space.bilibili.com/45046167)
 
 ## My interest
 My research interests include side-channel analysis, wireless communication, and their integration in wireless covert communication systems.
