@@ -23,7 +23,7 @@ My research interests include side-channel analysis, wireless communication, and
 * One paper was accepted to ACM CCS 2025 (CCF-A)
 * One paper was accepted to IMWUT/UbiComp (CCF-A)
 * One paper was accepted to IEEE SECON 2022 (CCF-B)
-* One paper won the third prize of ''Jinnang 2021''
+* One paper won the third prize of ''Jinnang-2021''
 
 
 ## Publications
